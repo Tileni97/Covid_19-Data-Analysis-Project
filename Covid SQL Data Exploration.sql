@@ -1,7 +1,5 @@
 /*
 COVID-19 Data Exploration Project
-Author: [Your Name]
-Date: [Current Date]
 
 Skills used: Joins, CTE's, Temp Tables, Window Functions, 
              Aggregate Functions, Creating Views, Converting Data Types
